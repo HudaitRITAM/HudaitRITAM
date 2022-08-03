@@ -1,9 +1,9 @@
-![masterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif) 
+![masterHead](https://deals.anker.com/dist/u5-MsproVK.gif) 
 <h1 align="center">Hi 👋, I'm Ritam Hudait</h1>
 <h3 align="center">I am a developer.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1020/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hudaitritam&label=Profile%20views&color=0e75b6&style=flat" alt="hudaitritam" /> </p>
+<p align="left" height="20%"> <img src="https://komarev.com/ghpvc/?username=hudaitritam&label=Profile%20views&color=0e75b6&style=flat" alt="hudaitritam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rit_i_am_" target="blank"><img src="https://img.shields.io/twitter/follow/rit_i_am_?logo=twitter&style=for-the-badge" alt="rit_i_am_" /></a> </p>
 
