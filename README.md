@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS,MongoDB**
 
-- 📫 How to reach me **ritamhudaitrr9@gmail.com**
-
+- 📫 How to reach me **ritamhudaitrr9@gmail.com** 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
