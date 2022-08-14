@@ -1,6 +1,7 @@
 <img height="300" width="850" src="https://deals.anker.com/dist/u5-MsproVK.gif"> 
 <h1 align="center">Hi 👋, I'm Ritam Hudait</h1>
-<h3 align="center">I am a developer.</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Developer;I'm+a+Front+End++Developer;I'm+a+Software++Developer" alt="Typing SVG" /></a>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1020/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left" height="20%"> <img src="https://komarev.com/ghpvc/?username=hudaitritam&label=Profile%20views&color=0e75b6&style=flat" alt="hudaitritam" /> </p>
