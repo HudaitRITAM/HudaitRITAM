@@ -42,16 +42,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
 </a>
 <a href="https://apisix.apache.org/" target="_blank" rel="noreferrer" title="Apache APISIX">
-    <img src="https://raw.githubusercontent.com/apache/apisix/master/doc/logo.png" alt="apisix" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/apache/apisix@master/doc/logo.png" alt="apisix" width="40" height="40" />
   </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
   </a>
 <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer" title="Keycloak">
-    <img src="https://raw.githubusercontent.com/keycloak/keycloak/main/docs/documentation/img/keycloak-logo.svg" alt="keycloak" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/keycloak/keycloak@main/docs/documentation/img/keycloak-logo.svg" alt="keycloak" width="40" height="40" />
   </a>
 <a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank" rel="noreferrer" title="SonarCloud">
-    <img src="https://raw.githubusercontent.com/SonarSource/sonarqube/master/sonarqube-web/static/img/sonar.svg" alt="sonarqube" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/SonarSource/sonarqube@master/sonarqube-web/static/img/sonar.svg" alt="sonarqube" width="40" height="40" />
   </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
