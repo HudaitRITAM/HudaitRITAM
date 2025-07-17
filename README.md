@@ -24,9 +24,41 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+
+<!-- Added DevOps related tools -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
+</a>
+<a href="https://apisix.apache.org/" target="_blank" rel="noreferrer" title="Apache APISIX">
+    <img src="https://raw.githubusercontent.com/apache/apisix/master/doc/logo.png" alt="apisix" width="40" height="40" />
+  </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40" />
+  </a>
+<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer" title="Keycloak">
+    <img src="https://raw.githubusercontent.com/keycloak/keycloak/main/docs/documentation/img/keycloak-logo.svg" alt="keycloak" width="40" height="40" />
+  </a>
+<a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank" rel="noreferrer" title="SonarCloud">
+    <img src="https://raw.githubusercontent.com/SonarSource/sonarqube/master/sonarqube-web/static/img/sonar.svg" alt="sonarqube" width="40" height="40" />
+  </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a> 
+
+
+  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> 
@@ -48,9 +80,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
+
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
@@ -60,9 +90,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
@@ -70,29 +97,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
 
-<!-- Added DevOps related tools -->
 
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
-</a>
-<a href="https://apisix.apache.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/apache/apisix-website/main/static/favicon.ico" alt="apisix" width="40" height="40"/> 
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> 
-</a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/> 
-</a>
-<a href="https://www.keycloak.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/keycloak/keycloak-icon.svg" alt="keycloak" width="40" height="40"/> 
-</a>
-<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/> 
-</a>
+
+
+
+
+
+
+
+
 </p>
 
 <p><img align="center" height="200" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudaitritam&show_icons=true&locale=en&layout=compact" alt="hudaitritam" /></p>
